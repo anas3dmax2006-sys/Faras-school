@@ -1,2 +1,2 @@
-# Faras-school
+# Faras school
 احصائية الغياب
